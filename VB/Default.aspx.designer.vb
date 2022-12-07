@@ -28,7 +28,7 @@ Namespace ControlPropertiesChangeOnCallback
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected cpCallbackPanel As Global.DevExpress.Web.ASPxCallbackPanel.ASPxCallbackPanel
+        Protected cpCallbackPanel As Global.DevExpress.Web.ASPxCallbackPanel
 
         ''' <summary>
         ''' hfPageState control.
@@ -37,7 +37,7 @@ Namespace ControlPropertiesChangeOnCallback
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected hfPageState As Global.DevExpress.Web.ASPxHiddenField.ASPxHiddenField
+        Protected hfPageState As Global.DevExpress.Web.ASPxHiddenField
 
         ''' <summary>
         ''' btnButton control.
@@ -46,7 +46,7 @@ Namespace ControlPropertiesChangeOnCallback
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected btnButton As Global.DevExpress.Web.ASPxEditors.ASPxButton
+        Protected btnButton As Global.DevExpress.Web.ASPxButton
 
         ''' <summary>
         ''' btnChangePropertiesOnCallback control.
@@ -55,7 +55,7 @@ Namespace ControlPropertiesChangeOnCallback
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected btnChangePropertiesOnCallback As Global.DevExpress.Web.ASPxEditors.ASPxButton
+        Protected btnChangePropertiesOnCallback As Global.DevExpress.Web.ASPxButton
 
         ''' <summary>
         ''' btnChangePropertiesOnClient control.
@@ -64,7 +64,7 @@ Namespace ControlPropertiesChangeOnCallback
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected btnChangePropertiesOnClient As Global.DevExpress.Web.ASPxEditors.ASPxButton
+        Protected btnChangePropertiesOnClient As Global.DevExpress.Web.ASPxButton
 
         ''' <summary>
         ''' btnSendEmptyCallback control.
@@ -73,7 +73,7 @@ Namespace ControlPropertiesChangeOnCallback
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected btnSendEmptyCallback As Global.DevExpress.Web.ASPxEditors.ASPxButton
+        Protected btnSendEmptyCallback As Global.DevExpress.Web.ASPxButton
 
         ''' <summary>
         ''' btnDoPostback control.
@@ -82,6 +82,6 @@ Namespace ControlPropertiesChangeOnCallback
         ''' Auto-generated field.
         ''' To modify move field declaration from designer file to code-behind file.
         ''' </remarks>
-        Protected btnDoPostback As Global.DevExpress.Web.ASPxEditors.ASPxButton
+        Protected btnDoPostback As Global.DevExpress.Web.ASPxButton
     End Class
 End Namespace

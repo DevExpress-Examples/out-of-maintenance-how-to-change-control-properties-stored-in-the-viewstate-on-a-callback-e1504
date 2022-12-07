@@ -1,9 +1,9 @@
 <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="ControlPropertiesChangeOnCallback._Default" %>
 
-<%@ Register Assembly="DevExpress.Web.v13.2" Namespace="DevExpress.Web.ASPxPanel" TagPrefix="dxp" %>
-<%@ Register Assembly="DevExpress.Web.v13.2" Namespace="DevExpress.Web.ASPxCallbackPanel" TagPrefix="dxcp" %>
-<%@ Register Assembly="DevExpress.Web.v13.2" Namespace="DevExpress.Web.ASPxHiddenField" TagPrefix="dxhf" %>
-<%@ Register Assembly="DevExpress.Web.v13.2" Namespace="DevExpress.Web.ASPxEditors" TagPrefix="dxe" %>
+<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web" TagPrefix="dxp" %>
+<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web" TagPrefix="dxcp" %>
+<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web" TagPrefix="dxhf" %>
+<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web" TagPrefix="dxe" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">

@@ -48,7 +48,7 @@ Namespace ControlPropertiesChangeOnCallback
                 ButtonText = ButtonText
             End If
         End Sub
-        Protected Sub OnCallback(ByVal source As Object, ByVal e As DevExpress.Web.ASPxClasses.CallbackEventArgsBase)
+        Protected Sub OnCallback(ByVal source As Object, ByVal e As DevExpress.Web.CallbackEventArgsBase)
             If e.Parameter = "ChangeButtonProperties" Then
                 ButtonBorderColor = GetRandomColor()
                 ButtonText = GetRandomText()

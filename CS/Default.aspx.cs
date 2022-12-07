@@ -41,7 +41,7 @@ namespace ControlPropertiesChangeOnCallback {
                 ButtonText = ButtonText;
             }
         }
-        protected void OnCallback(object source, DevExpress.Web.ASPxClasses.CallbackEventArgsBase e) {
+        protected void OnCallback(object source, DevExpress.Web.CallbackEventArgsBase e) {
             if(e.Parameter == "ChangeButtonProperties") {
                 ButtonBorderColor = GetRandomColor();
                 ButtonText = GetRandomText();

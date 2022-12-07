@@ -28,7 +28,7 @@ namespace ControlPropertiesChangeOnCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxCallbackPanel.ASPxCallbackPanel cpCallbackPanel;
+        protected global::DevExpress.Web.ASPxCallbackPanel cpCallbackPanel;
         
         /// <summary>
         /// hfPageState control.
@@ -37,7 +37,7 @@ namespace ControlPropertiesChangeOnCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxHiddenField.ASPxHiddenField hfPageState;
+        protected global::DevExpress.Web.ASPxHiddenField hfPageState;
         
         /// <summary>
         /// btnButton control.
@@ -46,7 +46,7 @@ namespace ControlPropertiesChangeOnCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnButton;
+        protected global::DevExpress.Web.ASPxButton btnButton;
         
         /// <summary>
         /// btnChangePropertiesOnCallback control.
@@ -55,7 +55,7 @@ namespace ControlPropertiesChangeOnCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnChangePropertiesOnCallback;
+        protected global::DevExpress.Web.ASPxButton btnChangePropertiesOnCallback;
         
         /// <summary>
         /// btnChangePropertiesOnClient control.
@@ -64,7 +64,7 @@ namespace ControlPropertiesChangeOnCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnChangePropertiesOnClient;
+        protected global::DevExpress.Web.ASPxButton btnChangePropertiesOnClient;
         
         /// <summary>
         /// btnSendEmptyCallback control.
@@ -73,7 +73,7 @@ namespace ControlPropertiesChangeOnCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnSendEmptyCallback;
+        protected global::DevExpress.Web.ASPxButton btnSendEmptyCallback;
         
         /// <summary>
         /// btnDoPostback control.
@@ -82,6 +82,6 @@ namespace ControlPropertiesChangeOnCallback {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnDoPostback;
+        protected global::DevExpress.Web.ASPxButton btnDoPostback;
     }
 }
